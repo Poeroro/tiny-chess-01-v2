@@ -12,3 +12,7 @@ lzma + base85 payload with its unpacker; Python 3.13, standard library
 only, and it reads no other file.
 
 Local practice trials against the house ladder: Elo 1464 and 1396.
+
+A tuning round on 17 Nov screened four candidate rewrites in self-play;
+every candidate was then rejected on full-budget practice trials (the
+best screen scorer came in ~290 Elo below v2), so this v2 build stands.
